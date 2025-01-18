@@ -1,1 +1,1 @@
-# top-rps
+Rock Paper Scissors game using basic javascript for The Odin Project.
